@@ -1,0 +1,8 @@
+body {
+   background-image: url("images/home.jpg");
+   background-repeat:no-repeat;
+}
+img {
+    height: auto;
+    width: 100%;
+}
